@@ -156,7 +156,4 @@ NIM :24131310032
 Universitas : UNTARA
 
 📦 Link Ebook:
-
-✍️ Penulis
-
-Dimas Putra Ramadhan
+https://ebook.webiot.id/ebooks/buku-panduan-sistem-in-out-gudang
